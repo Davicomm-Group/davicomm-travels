@@ -27,10 +27,10 @@ let wordIndex = 0;
 const background = document.querySelector('.background');
 let index = 0;
 setInterval(() => {
-    let images = ['../images/picture1.jpeg', '../images/picture2.jpg', 
-    '../images/picture3.jpg', '../images/picture4.jpg', '../images/picture5.webp', 
-    '../images/picture6.jpg', '../images/picture7.jpg', '../images/picture8.png',
-    '../images/tinapa.jpg', '../images/zanzibar.jpg'];
+    let images = ['./images/picture1.jpeg', './images/picture2.jpg', 
+    './images/picture3.jpg', './images/picture4.jpg', './images/picture5.webp', 
+    './images/picture6.jpg', './images/picture7.jpg', './images/picture8.png',
+    './images/tinapa.jpg', './images/zanzibar.jpg'];
     background.style.backgroundImage = `linear-gradient(rgba(41, 41, 41, 0.555), rgba(41, 41, 41, 0.555)), url('${images[index]}')`;
     ++index;
     if (index === images.length) {
