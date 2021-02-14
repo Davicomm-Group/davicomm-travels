@@ -548,14 +548,14 @@ body .background {
   color: white;
   font-family: "atkinson";
   font-size: 1.5rem;
-  font-weight: 100;
+  font-weight: 600;
 }
 
 .footer .contact-info .easy-reach .mail-box a {
   color: white;
   font-family: "atkinson";
   font-size: 1.5rem;
-  font-weight: 100;
+  font-weight: 600;
 }
 
 .footer .contact-info .main {
@@ -583,7 +583,7 @@ body .background {
   color: white;
   text-decoration: none;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
   font-size: 2rem;
 }
 
@@ -595,7 +595,7 @@ body .background {
 .footer .contact-info .main .left .address p {
   color: white;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
   font-size: 2rem;
 }
 
@@ -612,7 +612,7 @@ body .background {
   color: white;
   text-decoration: none;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
   font-size: 2rem;
 }
 
@@ -627,7 +627,7 @@ body .background {
 .footer .contact-info .main .right .our-process h2 {
   color: white;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
   font-size: 2rem;
 }
 
@@ -641,7 +641,7 @@ body .background {
   padding: 1.5rem 3rem;
   color: white;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
   cursor: pointer;
 }
 
@@ -685,7 +685,7 @@ body .background {
   padding: 1.5rem;
   outline: none;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
   color: white;
   font-size: 1.5rem;
 }
@@ -693,25 +693,25 @@ body .background {
 .footer .contact-form input::-webkit-input-placeholder {
   color: #797979;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
 }
 
 .footer .contact-form input:-ms-input-placeholder {
   color: #797979;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
 }
 
 .footer .contact-form input::-ms-input-placeholder {
   color: #797979;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
 }
 
 .footer .contact-form input::placeholder {
   color: #797979;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
 }
 
 .footer .contact-form input[type="email"],
@@ -724,7 +724,7 @@ body .background {
   border: none;
   outline: #efa769;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
   color: white;
   padding: 1.5rem;
   height: 10rem;
@@ -738,25 +738,25 @@ body .background {
 .footer .contact-form textarea::-webkit-input-placeholder {
   color: #797979;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
 }
 
 .footer .contact-form textarea:-ms-input-placeholder {
   color: #797979;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
 }
 
 .footer .contact-form textarea::-ms-input-placeholder {
   color: #797979;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
 }
 
 .footer .contact-form textarea::placeholder {
   color: #797979;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
 }
 
 .footer .contact-form .submit-btn {
@@ -765,7 +765,7 @@ body .background {
   padding: 1.5rem 3rem;
   color: white;
   font-family: "atkinson";
-  font-weight: 100;
+  font-weight: 600;
   cursor: pointer;
   margin-bottom: 2rem;
 }
